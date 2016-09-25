@@ -8,4 +8,6 @@ Run the project (either on Android or on PC).
 If you are using an Android, place Android phone on Cardboard. When you move the Android&Cardboard you can look at the loaded images. If you press the Cardboard button or the display of your phone, you can view the next image.   
 If you are using PC, press Alt to look around with your mouse movement. Left-click on an image to view the next.   
 
+My scripts are located at folder **Cardboard Test 2\Assets\VR Viewer**.     
+
 I hane no rights for the images nor I have created them. Maybe you will find assets from Cardboard API inside Project Folders.  
