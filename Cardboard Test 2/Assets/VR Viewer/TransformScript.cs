@@ -8,7 +8,6 @@ using System;
 public class TransformScript : MonoBehaviour, IPointerClickHandler
 {
     private float speed = 0.01f;
-    //private float prevy, prevz;
     private bool move, previousSet;
     private int GameObjectIndex;
 
