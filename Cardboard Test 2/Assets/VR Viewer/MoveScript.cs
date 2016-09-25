@@ -4,7 +4,7 @@ using UnityEngine.EventSystems;
 using Assets.Pictures;
 using System.Linq;
 
-public class MoveScript : MonoBehaviour//, IPointerClickHandler
+public class MoveScript : MonoBehaviour
 {
 
     public float speed = 0.001f;
