@@ -11,5 +11,5 @@ If you are using PC, press Alt to look around with your mouse movement. Left-cli
 My scripts are located at folder **Cardboard Test 2\Assets\VR Viewer**.     
 
 I hane no rights for the images nor I have created them. Maybe you will find assets from Cardboard API inside Project Folders.  
-![alt tag](VRviewerDemo.png)
+![Preview](VRviewerDemo.png)
 
