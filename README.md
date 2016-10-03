@@ -12,3 +12,7 @@ This is a project made with Unity3D (https://unity3d.com/) and Google Cardboard 
 ### My scripts are located at folder **Cardboard Test 2\Assets\VR Viewer**.     
 
 *I hane no rights for the images nor I have created them. You may find assets from Cardboard API inside Project Folders.*  
+
+
+## Screenshot
+![](VRviewerDemo.PNG)
